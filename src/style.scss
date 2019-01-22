@@ -1,0 +1,40 @@
+body {
+    :lang(ja) {
+        font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", 'Segoe UI', SegoeUI, 'Yu Gothic UI', 'Meiryo UI', Arial, sans-serif;
+    }
+}
+
+h1,
+h2 {
+    font-weight: normal;
+}
+
+h1 {
+    margin: 0 0 0 0;
+}
+
+h2 {
+    margin: 5px 0 5px 0;
+}
+
+.name {
+    margin: 0 0 50px 0;
+    font-size: 3em;
+
+    > .lastname {
+        margin: 0 3px 0 0;
+    }
+}
+
+.service-box {
+    margin: 30px 0 30px 0;
+}
+
+.contact-box {
+    margin: 30px 0 50px 0;
+
+    .mail {
+        margin: 0 0 3px 0;
+        font-size: 3em;
+    }
+}
