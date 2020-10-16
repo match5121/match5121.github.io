@@ -21,7 +21,10 @@ h2 {
   margin: 30px 0 30px 0; }
 
 .contact-box {
-  margin: 30px 0 50px 0; }
+  margin: 30px 0 30px 0; }
   .contact-box .mail {
     margin: 0 0 3px 0;
     font-size: 3em; }
+
+.works-box {
+  margin: 30px 0 50px 0; }
